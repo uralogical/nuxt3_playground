@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Dependency directories
+node_modules/
+
+# nuxt.js build output
+.nuxt
+
+# Nuxt generate
+dist
+
+# IDE / Editor
+.vscode
+
+# Mac OSX
+.DS_Store
+
+# @nuxtjs/dotenv
+.env
+
+# nuxt3 build path
+.output
